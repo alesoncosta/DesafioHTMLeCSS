@@ -25,13 +25,13 @@ Neste projeto para a "Irmãos Apple", foram utilizados diversos recursos e tecno
 ## :camera: Capturas de Tela 
 ÍNICIO
 <p <a href="https://ibb.co/5K07Zp6"><img src="https://i.ibb.co/qJSZ6qd/Screenshot-1.png" alt="Screenshot-1" border="0"></a></p>
-SOBRE
+<p>SOBRE</p>
 <p <a href="https://ibb.co/vHsjHZH"><img src="https://i.ibb.co/56YR6B6/about.png" alt="about" border="0"></a></p>
-CONTATO
+<p>CONTATO</p>
 <p <a href="https://ibb.co/kXTTvwy"><img src="https://i.ibb.co/jDYYsQ5/contact.png" alt="contact" border="0"></a></p>
-GALERIA
+<p>GALERIA</p>
 <p <a href="https://ibb.co/1MDtvQX"><img src="https://i.ibb.co/MfYx2S1/gallery.png" alt="gallery" border="0"></a></p>
-TODAS AS ABAS CONTÉM RODAPÉ COMO NA ABA (CONTATO), PORÉM NÃO COUBERAM NA CAPTURA DE TELA DAS OUTRAS ABAS.
+<p>TODAS AS ABAS CONTÉM RODAPÉ COMO NA ABA (CONTATO), PORÉM NÃO COUBERAM NA CAPTURA DE TELA DAS OUTRAS ABAS.</p>
 
-## autor
+## Criador
 :boy: [Aleson Costa](https://github.com/alesoncosta)
