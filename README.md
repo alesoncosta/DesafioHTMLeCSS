@@ -2,7 +2,7 @@
 
 ## :computer: Irmãos Apple - Site Corporativo
 
-Este é um projeto de site corporativo desenvolvido para a empresa "Irmãos Apple". O site fornece informações essenciais sobre a empresa, seus produtos e serviços. Abaixo estão detalhes importantes sobre o projeto:
+Este é um projeto de site corporativo desenvolvido para a empresa "Irmãos Apple", uma empresa minha e do meu irmão já existente, mas ainda não tínhamos um site. O site fornece informações essenciais sobre a empresa, seus produtos e serviços. Abaixo estão detalhes importantes sobre o projeto:
 
 ## Recursos Utilizados
 
